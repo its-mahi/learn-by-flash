@@ -94,3 +94,10 @@
     background-color: #555;
     transform: scale(1.05);
 }
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .flashcard-form {
+        width: 100%;
+    }
+}
