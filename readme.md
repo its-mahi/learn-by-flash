@@ -15,6 +15,31 @@ Welcome to the **Flashcard Learning Tool**! This is a modern, interactive, and d
 - **Delete Flashcards**: Remove flashcards that are no longer needed with a single click.
 
 
+## 📸 Screenshots
+
+Here are some screenshots of the Flashcard Learning Tool:
+
+
+<table>
+  <tr>
+    <td>
+      <img src="./screenshot/1.png" alt="Viewer Page" style="border: 1px solid #000; width:500px; border-radius: 8px; margin: 10px;">
+    </td>
+    <td>
+      <img src="./screenshot/2.png" alt="Admin Dashboard" style="border: 1px solid #000; width:500px; border-radius: 8px; margin: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./screenshot/3.png" alt="Flashcard Form - Admin Dashboard" style="border: 1px solid #000; width:500px; border-radius: 8px; margin: 10px;">
+    </td>
+    <td>
+      <img src="./screenshot/4.png" alt="Flash Card View" style="border: 1px solid #000; width:500px; border-radius: 8px; margin: 10px;">
+    </td>
+  </tr>
+</table>
+
+
 ## 🚀 Quick Start
 
 1. **Clone the repository**:
