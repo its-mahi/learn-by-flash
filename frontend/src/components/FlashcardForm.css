@@ -1,0 +1,23 @@
+.add-button {
+    background-color: #444;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.add-button:hover {
+    background-color: #555;
+    transform: scale(1.05);
+} 
+
+.flashcard-heading {
+    font-size: 40px;
+    color: #bcbcbc;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
